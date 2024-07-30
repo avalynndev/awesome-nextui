@@ -8,7 +8,7 @@
 <h2 align='center'>awesome-nextui</h2>
 
 <p align='center'>
-A curated list of awesome things related to <a href='https://nextui.org/' target="_blank">NextUI/ui</a>
+A curated list of awesome things related to <a href='https://nextui.org/' target="_blank">NextUI</a>
 <br><br>
 
 <p align='center'>
