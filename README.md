@@ -20,7 +20,7 @@ A curated list of awesome things related to <a href='https://nextui.org/' target
 </a>
 </p>
 
-## Libs and Components
+### Libs and Components
 - [nextui-design-pro](https://github.com/wangly19/nextui-design-pro) - The best practices for React NextUI + Formik + zustand 🚀
 
 ### Plugins
@@ -36,6 +36,7 @@ A curated list of awesome things related to <a href='https://nextui.org/' target
 - [tts-azure](https://github.com/Femoon/tts-azure-web) - Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click using your Azure Key.
 - [block-yt-shorts](https://github.com/probablyraging/hide-youtube-shorts) - Hide YouTube Shorts videos effortlessly with this powerful browser extension
 - [bitmagnet](https://github.com/journey-ad/Bitmagnet-Next-Web) - A modern BitTorrent indexer, powered by Bitmagnet.
+- [placenoter](https://github.com/sereneinserenade/placenoter) - Chrome extension to turn browser's default new tab into note-taking machine.
 
 ### Websites
 - [Sora](https://github.com/Khanhtran47/Sora) - A web app for exploring movies, tv shows and anime built with Remix and NextUI
@@ -47,7 +48,7 @@ A curated list of awesome things related to <a href='https://nextui.org/' target
 - [article-sharing](https://github.com/coopercodes/MediumNextJSSupabaseClone) - Article sharing website built using Next.js, TypeScript, Supabase, PostgreSQL, and NextUI
 - [nextjs-app](https://github.com/yaseenmustapha/nextjs14-app) - Full-stack Next.js 14 application. Uses React 18 client & server components, TypeScript, Prisma ORM, Railway PostgreSQL database, NextAuth.js OAuth 2.0 authentication, OpenAI API GPT-3.5-Turbo, and Stripe payments.
 
-## Design System
+### Design System
 - [shinyNextUI](https://github.com/RinteRface/shinyNextUI) - NextUI Design Kit for Shiny
 
 ## Boilerplates / Templates
